@@ -25,4 +25,4 @@ ScrollReveal().reveal('.bars li', {delay: 300, origin: 'top', interval: 500});
 ScrollReveal().reveal('.contact-container h2', {delay: 400, origin: 'top'});
 ScrollReveal().reveal('.contact-content h2', {delay: 300, origin: 'right'});
 ScrollReveal().reveal('.contact-left li', {delay: 300, origin: 'left', interval: 300});
-ScrollReveal().reveal('.contact-right input, textarea, button', {delay: 300, origin: 'bottom', interval: 300});
+ScrollReveal().reveal('.contact-right input, textarea, button', {delay: 300, origin: 'bottom', interval: 100});

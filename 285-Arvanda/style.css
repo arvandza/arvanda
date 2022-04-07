@@ -289,7 +289,6 @@ img{
     resize: none;
 }
 .btn{
-    display: flex;
     height: 30px;
     border: none;
     background-color: #000;
